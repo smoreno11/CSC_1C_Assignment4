@@ -1,0 +1,23 @@
+**********************************************
+* PROGRAMMED BY : Saul Moreno
+* STUDENT ID    : 269491
+* CLASS         : CS 1B MW-7:30pm
+* ASSIGNMENT #5 : Enhanced Employees
+***********************************************
+
+This Program will display the Data for the C1SCE Employee, The Programmers
+and Software Architects. It will display all other pertinent data
+
+Data:
+C1SCEmployees
+
+These three examples are me just setting the employee's information automatically
+Name           Employee's Id Phone         Age  Gender Job Title       Salary    Date    
+Joe Calculus   64879         949-555-1234  42   M      Math Wiz        $110000    8/31/2017
+Mary Algebra   76309         213-555-5555  22   F      Math Wiz        $170123    5/08/2017
+Jo Trig        12345         714-703-1234  29   F      Math Contact    $200000    12/25/2016
+
+Address              City            State Zip Code
+1234 Main Avenue     Laguna Niguel   CA    92677
+3333 Marguerite Pwky Mission Viejo   CA    92646
+9876 Elm Street      San Clemente    CA    92672
